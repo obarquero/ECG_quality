@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ecg_challenge>
+<samplingfrequency>500</samplingfrequency>
+<numberofleads>12</numberofleads>
+<leadlabels>I,II,III,aVR,aVF,aVL,V1,V2,V3,V4,V5,V6</leadlabels>
+<age>61</age>
+<sex>F</sex>
+<electrode>disposable</electrode>
+</ecg_challenge>
